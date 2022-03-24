@@ -11,3 +11,5 @@ Sendo possível também excluir alguma despesa caso necessário.
 
 - É utilizado uma lógica para não permitir que o usuário cadastre uma despesa faltando algum item do formulário, como por exemplo o tipo de despesa.
 Também é formatado o valor digitado pelo usuário, para que ele sempre saia no padrão da moeda Real com dois números decimais após a vírgula.
+
+Foi utilizado a linguagem Javascript para a lógica da aplicação e localStorage do navegador para salvar os dados das despesas.
